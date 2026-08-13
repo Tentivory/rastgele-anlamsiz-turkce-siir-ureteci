@@ -1,0 +1,4 @@
+# Bu proje hiçbir şeye ihtiyaç duymaz.
+# Python yeterlidir.
+# Hatta Python bile gerekmeyebilir, ama biz yine de ekledik.
+# Anlamsızlık bağımlılık istemez.
